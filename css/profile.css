@@ -1,0 +1,121 @@
+.bg-jumbotron{
+	height: 100vh;
+	min-height: 500px;
+}
+
+.btn-gradien{
+	background: #FF9F67;
+	color: #fff;
+}
+
+
+.title{
+	font-size: 60px	;
+	color: #fff;
+	font-weight: 700;
+}
+
+.paragrap{
+	color: #fff;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.navbar-expand-lg .navbar-nav .dropdown-menu{
+	background-color: #C86FFF;
+}
+
+.dropdown-item:focus, .dropdown-item:hover{
+	color: orange;
+	text-decoration: none;
+	background-color: #2dc2ca;
+}
+
+.dropdown-item{
+	color: #fff;
+}
+
+.kartu-service{
+	margin-top: -63px;
+}
+
+.kartu-service .single-service{
+	display: flex;
+	box-shadow: 0px 25px 60px rgba(66, 85, 164, 0.06);
+	padding: 29px 24px;
+	border-radius: 20px;
+	background: #fff;
+	margin-bottom: 30px;
+}
+
+.fitur-ikon{
+	position: relative;
+	top: 8px;
+}
+.fitur-ikon, .img{
+	display: block;
+}
+
+.fitur-caption{
+	padding-left: 19px;
+}
+
+.fitur-caption, h3{
+	font-size: 20px;
+	line-height: 1.2;
+	margin-bottom: 10px;
+	font-weight: 700;
+	color: #4255A4;
+	margin-top: 0px;
+	font-style: normal;	
+}
+
+.fitur-caption, p{
+	font-size: 17px;
+	line-height: 1.5;
+	margin-bottom: 0px;
+	font-style: normal;	
+	color: #4255A4;
+	justify-content: center;
+}
+
+
+.section-p40{
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+
+.fix{
+	overflow: hidden;
+}
+
+.section-title h2{
+	font-size: 42px;
+	display: block;
+	font-weight: 600;
+	line-height: 1.3;
+	margin-bottom: 21px;
+	color: #4255A4;
+	font-style: normal;
+}
+
+.produk{
+	display: flex;
+	box-shadow: 0px 25px 60px rgba(66, 85, 164, 0.06);
+	padding: 29px 24px;
+	border-radius: 20px;
+	background: #fff;
+	margin-bottom: 30px;
+}
+
+.pigura{
+	display: flex;
+	box-shadow: 0px 25px 60px rgba(66, 85, 164, 0.06);
+	padding: 29px 24px;
+	border-radius: 20px;
+	background: #fff;
+}
+
+.poto-service{
+	margin-top: -55px;
+}
